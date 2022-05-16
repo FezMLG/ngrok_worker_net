@@ -1,0 +1,11 @@
+﻿{
+  "profiles": {
+    "ngrok_worker_net": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Local"
+      }
+    }
+  }
+}
