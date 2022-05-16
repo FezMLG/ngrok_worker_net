@@ -7,5 +7,6 @@ App is working as worker every minute.
 
 - Install [.NET Runtime >=6.0.5](https://dotnet.microsoft.com/en-us/download/dotnet)
 - Go to `ngrok_worker_net` folder.
-- Duplicate `appsettings.Development.json` file and rename the duplicate to `appsettings.Local.json`
+- Duplicate `appsettings.json` file and rename the duplicate to `appsettings.Local.json`
+- Fill in `appsettings.Local.json` file
 - Run app
