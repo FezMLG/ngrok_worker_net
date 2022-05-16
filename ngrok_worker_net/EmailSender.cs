@@ -18,9 +18,9 @@ public class EmailSender
     {
         MailMessage message = new MailMessage();  
         SmtpClient smtp = new SmtpClient(); 
-        message.From = new MailAddress("konradchw@gmail.com");  
-        message.To.Add(new MailAddress("konradchw@gmail.com"));  
-        message.Subject = "Test";  
+        message.From = new MailAddress(_configuration["Email:Sender"]);  
+        message.To.Add(new MailAddress(_configuration["Email:Recipient"]));  
+        message.Subject = "New ngrok url";  
         message.IsBodyHtml = true; //to make message body as html  
         message.Body = body;  
         smtp.Port = Convert.ToInt32(_configuration["Email:Port"]);  

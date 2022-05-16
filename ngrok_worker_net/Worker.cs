@@ -38,7 +38,7 @@ public class Worker : BackgroundService
                 emailSender.SendMail(body: _lastUrl);
             }
 
-            await Task.Delay(5000, stoppingToken);
+            await Task.Delay(60000, stoppingToken);
         }
     }
 }

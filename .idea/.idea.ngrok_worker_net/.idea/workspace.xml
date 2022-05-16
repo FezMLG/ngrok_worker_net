@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f271520-44da-442c-b87f-78f41791b9b2" name="Changes" comment="Working app">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ngrok_worker_net/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ngrok_worker_net/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ngrok_worker_net/appsettings.Local.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ngrok_worker_net/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ngrok_worker_net/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ngrok_worker_net/EmailSender.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ngrok_worker_net/EmailSender.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ngrok_worker_net/Worker.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ngrok_worker_net/Worker.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ngrok_worker_net/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/ngrok_worker_net/appsettings.Development.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ngrok_worker_net/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ngrok_worker_net/appsettings.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652556594398</updated>
-      <workItem from="1652556618004" duration="6521000" />
+      <workItem from="1652556618004" duration="7086000" />
     </task>
     <task id="LOCAL-00001" summary="Working app">
       <created>1652684958600</created>
